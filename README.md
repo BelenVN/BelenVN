@@ -3,7 +3,7 @@
 
 ## 🖖🏼Hello! 
 
-I am a recently graduated Spanish junior Data Analyst willing to work and keep learning. 
+I am a recently graduated junior Data Analyst willing to work and keep learning. 
 
 ## 🌸 About Me:
 
