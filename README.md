@@ -8,7 +8,9 @@ I am a recently graduated Spanish junior Data Analyst willing to work and keep l
 ## 🌸 About Me:
 
 Enthusiastic and curious, I deeply enjoy the learning process. I am passionate about new technologies and digital communication.
+
 I am a very creative person, art is part of my life and I would love it to be part of my work as well. That's why I have really enjoyed learning how to use tools like Power BI and Tableau.
+
 Thanks to my technology background, I have discovered how much I enjoy programming in languages like Python and SQL. I find it stimulating to have to find ways to create projects and query them through code.
 
 ## 💪🏼 Technical knowledge:
@@ -50,3 +52,9 @@ This project analyzes ABC Corporation employee data to identify key factors that
 
 [**Star_Wars_Hangman:**](https://github.com/BelenVN/proyecto-da-promo-b-pt-modulo-1-team-1) 
 This project combines learning and fun in the Star Wars universe, challenging your skills. Developed in Python, two versions of the game have been created: a simple one without graphical interface and a more complete one with interface.
+
+	
+## My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BelenVN&theme=omni&background=000000)](https://git.io/streak-stats)
+
