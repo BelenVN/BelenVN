@@ -33,12 +33,12 @@ Thanks to my technology background, I have discovered how much I enjoy programmi
 - Agile Methodology.
   - Design Thinking. 
   - Scrum Framework.
-- Trello (Project Management Tool, Kanban Tool).
+- Trello.
 - Waterfall Model.
 - Participatory Approach.
 - Logical Framework Approach (LFA).
 - Pair Programming.
-- Learning-by-Doing (Experiential Learning / Active Learning).
+- Learning-by-Doing.
 
 ## 👭 Group Projects:
 
