@@ -49,7 +49,7 @@ Thanks to my technology background, I have discovered how much I enjoy programmi
 This project performs an Exploratory Data Analysis (EDA) on an airline loyalty program dataset to identify patterns in flight activity and customer loyalty in order to improve customer retention and satisfaction.
 
 [**Talent Optimisation:**](https://github.com/BelenVN/data-analyst-proyect-ABC-Corporation) 
-This project analyzes ABC Corporation employee data to identify key factors that influence job satisfaction and retention. It includes EDA, data transformation, A/B testing, visualizations, and the development of a MySQL database and ETL process.
+This project analyzes ABC Corporation employee data to identify key factors that influence job satisfaction and retention. It includes EDA, data transformation, visualizations, and the development of a MySQL database and ETL process.
 
 [**Star_Wars_Hangman:**](https://github.com/BelenVN/proyecto-da-promo-b-pt-modulo-1-team-1) 
 This project combines learning and fun in the Star Wars universe, challenging your skills. Developed in Python, two versions of the game have been created: a simple one without graphical interface and a more complete one with interface.
