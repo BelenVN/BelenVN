@@ -42,7 +42,7 @@ Thanks to my technology background, I have discovered how much I enjoy programmi
 - Pair Programming.
 - Learning-by-Doing.
 
-## 👭 Group Projects:
+## ![image](https://github.com/user-attachments/assets/d48622e7-0c42-4f71-bec1-a6b5f947f33b) Projects:
 
 [**Loyalty_Program:**](https://github.com/BelenVN/airline-loyalty-program-EDA)
 This project performs an Exploratory Data Analysis (EDA) on an airline loyalty program dataset to identify patterns in flight activity and customer loyalty in order to improve customer retention and satisfaction.
